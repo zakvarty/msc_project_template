@@ -1,4 +1,4 @@
-# 02 Reading
+# 02 - reading/
 
 Use this section to keep track of what you are reading and what you learn from each article or book chapter. 
 

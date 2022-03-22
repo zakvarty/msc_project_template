@@ -1,4 +1,4 @@
-# 05_thesis
+# 05 - thesis/
 
 Add the LaTeX source to this folder to keep it under version control or use an online LaTeX editor that does this for you. You do not want to have your laptop break just before the deadline and lose all of your hard work! 
 

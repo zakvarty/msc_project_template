@@ -1,4 +1,4 @@
-# 04_code/
+# 04 - code/
 
 ## Directory structure
 - `inputs/` contains all raw data and other relevant inputs that are handled by the source code.

@@ -1,4 +1,4 @@
-# 03_working_notebooks 
+# 03 - working_notebooks/
 
 Use this folder to create working notebooks in the form of TeX documents, Rmd or ipynb files. These are your equivalent to the notebooks a physicist, chemist or biologist would keep while working on practical experiments. 
 
